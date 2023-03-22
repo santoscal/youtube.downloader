@@ -16,3 +16,11 @@ python3 youtube.download.py
 
 wait for pytube magicx
 
+
+am sure 
+
+python youtube.download.py 
+
+should also go well,,
+depends on whether you used pip for python or pip3 for python3
+
